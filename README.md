@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laniakeaea
+- 👋 Hi, I’m @Laniakea
 
 <!---
 Laniakeaea/Laniakeaea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
